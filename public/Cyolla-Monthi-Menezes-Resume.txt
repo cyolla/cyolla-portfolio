@@ -1,0 +1,28 @@
+CYOLLA MONTHI MENEZES
+Software Engineer | Full Stack Developer | AI & Machine Learning Enthusiast | QA Engineer
+
+Email: cyollamenezes3@gmail.com
+Phone: +91 6362078547
+GitHub: https://github.com/cyolla
+LinkedIn: https://www.linkedin.com/in/cyollamenezes
+Location: India
+
+PROFILE
+Postgraduate developer with real-world software engineering experience gained through industry internships. Specialises in designing and developing scalable web applications with a strong focus on performance, usability, and maintainable architecture.
+
+EDUCATION
+Master of Computer Applications - Nitte University
+Bachelor of Computer Applications - Mangalore University
+
+EXPERIENCE
+Frontend Developer Intern - CDQP Design Webtech Pvt Ltd
+05 Jan 2026 - 31 Jan 2026
+
+Full Stack Developer Intern - Softionik Solutions (OPC) Private Limited
+16 Jan 2025 - 01 Jun 2026
+
+SKILLS
+Java, Python, JavaScript, C, SQL, React, Node.js, Express.js, Flask, MongoDB, MySQL,
+Manual Testing, Functional Testing, Regression Testing, Smoke Testing, API Testing,
+Postman, Selenium, JUnit, Git, GitHub, VS Code, Flutter, Android Studio, Maven,
+REST APIs, OOP, Data Structures, SDLC, Agile, CI/CD, Scikit-learn
